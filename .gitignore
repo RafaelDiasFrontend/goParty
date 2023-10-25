@@ -1,0 +1,8 @@
+# Arquivos de compilação
+dist/
+node_modules/
+build/
+
+# Arquivos temporários
+.DS_Store
+.vscode/
